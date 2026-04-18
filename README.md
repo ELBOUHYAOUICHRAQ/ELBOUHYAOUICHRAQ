@@ -74,7 +74,7 @@
 
 ![Git](https://skillicons.dev/icons?i=git)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![GitHub](https://skillicons.dev/icons?i=github)
+![LATEX](https://img.icons8.com/color/65/latex.png)
 
 ---
 
