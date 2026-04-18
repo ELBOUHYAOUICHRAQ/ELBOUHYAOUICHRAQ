@@ -19,8 +19,7 @@
 ## 🚀 About Me
 
 - 🎓 Studying **Ubiquitous and Distributed Systems** at **INPT Rabat**
-- ☁️ Focused on **Cloud Architecture**, **CI/CD pipelines**, and **Microservices**
-- 🏅 **AWS Academy Cloud Architecting** certified
+- ☁️ Focused on **Cloud Architecture**, **CI/CD pipelines**, 
 - 🌍 Based in **Rabat, Morocco**
 
 ---
