@@ -1,8 +1,9 @@
+
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Ichraq+👋;DevOps+%26+Cloud+Engineer;INPT+Rabat+🇲🇦" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+I'm+Ichraq+👋;DevOps+%26+Cloud+Engineer" alt="Typing SVG" />
 </div>
-# Hi there, I'm Ichraq 👋
+  
+
 
 ### DevOps & Cloud Engineer | INPT Rabat 🇲🇦
 
