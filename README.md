@@ -70,13 +70,15 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Redis](https://skillicons.dev/icons?i=redis)
 
-**Tools**
+**Tools:**
 
-![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
-![LATEX](https://img.icons8.com/color/65/latex.png)
-
----
+<p align="center">
+  <img src="https://img.icons8.com/color/65/linux.png"/>
+  <img src="https://img.icons8.com/color/65/postman-api.png"/>
+  <img src="https://img.icons8.com/color/65/figma.png"/>
+  <img src="https://img.icons8.com/color/65/nginx.png"/>
+  <img src="https://img.icons8.com/color/65/latex.png"/>
+</p>
 
 
 
