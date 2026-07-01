@@ -19,7 +19,7 @@
 
 </td>
 <td width="50%" align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="380"/>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9d5.svg" width="220"/>
 </td>
 </tr>
 </table>
