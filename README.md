@@ -21,73 +21,28 @@
 - GitOps practices and Infrastructure as Code
 ---
 ## 🛠️ Technologies I Work With
+
 **Languages**
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Bash](https://skillicons.dev/icons?i=bash)
-**Frameworks**
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+
+![](https://skillicons.dev/icons?i=js,java,python,cpp,bash)
+
+**Frameworks & Runtime**
+
+![](https://skillicons.dev/icons?i=spring,nodejs,fastapi)
+
 **Cloud & Infrastructure**
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Nginx](https://skillicons.dev/icons?i=nginx)
+
+![](https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx)
+
 **DevOps & CI/CD**
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![Grafana](https://skillicons.dev/icons?i=grafana)
-**Data & Databases**
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Redis](https://skillicons.dev/icons?i=redis)
-**Tools**
-![Git](https://skillicons.dev/icons?i=git)
-![Postman](https://skillicons.dev/icons?i=postman)
-![LaTeX](https://skillicons.dev/icons?i=latex)
 
+![](https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,grafana)
 
-## 💻 Tech Stack
+**Databases & Tools**
 
-![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-008080?style=flat&logo=latex&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/next-000000?style=flat&logo=nextdotjs&logoColor=white)
+![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,git,postman,latex)
 
-![Express.js](https://img.shields.io/badge/express.js-000000?style=flat&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Socket.io](https://img.shields.io/badge/socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/apache_kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-
-![Apache Spark](https://img.shields.io/badge/apache_spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-![Ansible](https://img.shields.io/badge/ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-<br/>
-
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,3 +58,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="40%"/>
 
 </div>
+---
