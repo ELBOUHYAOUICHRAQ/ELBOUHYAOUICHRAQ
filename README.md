@@ -51,6 +51,8 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![LaTeX](https://skillicons.dev/icons?i=latex)
+
+
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -98,7 +100,6 @@
 
 <br/>
 
-<!-- Carte "Most Used Languages" empilée : nécessite github-profile-summary-cards, voir instructions -->
-<img src="https://raw.githubusercontent.com/ELBOUHYAOUICHRAQ/ELBOUHYAOUICHRAQ/main/profile-summary-card-output/dark/2_most_used_languages.svg" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="40%"/>
 
 </div>
