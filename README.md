@@ -65,16 +65,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/>
 
 ---
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=ELBOUHYAOUICHRAQ&theme=dark&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,9 +86,15 @@
 
 ✨ 🎷 🌅 🎸 ✨
 
-### *"Somewhere between a jazz chord and a rock riff, under a sky turning gold, I write code that feels like music — soft where it needs to breathe, loud where it needs to live."*
+### *"She speaks in syntax by day and saxophone by dusk — both languages fluent, both born of the same quiet discipline."*
 
 ✨ 🎷 🌅 🎸 ✨
+
+<br/>
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
+</div>
 
 </div>
 
