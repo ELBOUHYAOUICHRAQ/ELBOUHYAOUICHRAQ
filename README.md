@@ -6,12 +6,24 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
-</div>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="middle">
 
 ### DevOps & Cloud Engineer | INPT Rabat 🇲🇦
 *Passionate about automating everything, scaling systems, and bridging the gap between development and operations.*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4500&pause=2000&color=E91E8C&center=false&vCenter=true&width=450&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
+
+</td>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="380"/>
+</td>
+</tr>
+</table>
+
 ---
 ## 🚀 About Me
 - 🎓 Studying **Ubiquitous and Distributed Systems** at **INPT Rabat**
@@ -89,7 +101,7 @@
 
 ✨ 🎷 🌅 🎸 ✨
 
-### *She speaks in syntax by day and saxophone by dusk — both languages fluent, both born of the same quiet discipline.*
+### *"She speaks in syntax by day and saxophone by dusk — her code hums like jazz, her calm glows like a sunset, both born of the same quiet discipline."*
 
 ✨ 🎷 🌅 🎸 ✨
 
