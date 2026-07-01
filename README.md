@@ -11,7 +11,7 @@
 ### DevOps & Cloud Engineer | INPT Rabat 🇲🇦
 *Passionate about automating everything, scaling systems, and bridging the gap between development and operations.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Clean+code%2C+cool+jazz%2C+calm+mind." alt="devise" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Clean+code%2C+cool+jazz%2C+calm+mind" alt="devise" />
 </div>
 
 
