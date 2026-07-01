@@ -6,23 +6,14 @@
   </picture>
 </div>
 
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="middle">
+<div align="center">
 
 ### DevOps & Cloud Engineer | INPT Rabat 🇲🇦
 *Passionate about automating everything, scaling systems, and bridging the gap between development and operations.*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4500&pause=2000&color=E91E8C&center=false&vCenter=true&width=450&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
 
-</td>
-<td width="50%" align="center">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f9d5.svg" width="220"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 ## 🚀 About Me
