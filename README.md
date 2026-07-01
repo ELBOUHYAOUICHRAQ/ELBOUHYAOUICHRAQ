@@ -65,6 +65,22 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/>
 
 ---
+
+<div align="center">
+
+✨ 🎷 🌅 🎸 ✨
+
+### *"She speaks in syntax by day and saxophone by dusk — her code hums like jazz, her calm glows like a sunset, both born of the same quiet discipline."*
+
+✨ 🎷 🌅 🎸 ✨
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
+
+</div>
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -80,22 +96,4 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="40%"/>
 
 </div>
----
-
-<div align="center">
-
-✨ 🎷 🌅 🎸 ✨
-
-### *"She speaks in syntax by day and saxophone by dusk — both languages fluent, both born of the same quiet discipline."*
-
-✨ 🎷 🌅 🎸 ✨
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
-</div>
-
-</div>
-
 ---
