@@ -70,7 +70,7 @@
 
 ✨ 🎷 🌅 🎸 ✨
 
-### *"She speaks in syntax by day and saxophone by dusk — her code hums like jazz, her calm glows like a sunset, both born of the same quiet discipline."*
+"She speaks in syntax by day and saxophone by dusk — her code hums like jazz, her calm glows like a sunset, both born of the same quiet discipline."
 
 ✨ 🎷 🌅 🎸 ✨
 
