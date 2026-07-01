@@ -5,7 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=500&lines=Hi+I'm+Ichraq+👋;DevOps+%26+Cloud+Engineer" alt="Typing SVG" />
   </picture>
 </div>
-  
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
+</div>
+
 ### DevOps & Cloud Engineer | INPT Rabat 🇲🇦
 *Passionate about automating everything, scaling systems, and bridging the gap between development and operations.*
 ---
@@ -65,6 +69,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td><img src="https://github-readme-stats-fast.vercel.app/api?username=ELBOUHYAOUICHRAQ&show_icons=true&theme=dark&hide_border=true" width="380"/></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBOUHYAOUICHRAQ&theme=dark&hide_border=true" width="380"/></td>
+<td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="280"/></td>
+</tr>
+</table>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -74,20 +93,6 @@
 
 ✨ 🎷 🌅 🎸 ✨
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=4500&pause=2000&color=E91E8C&center=true&vCenter=true&width=650&lines=Code+with+logic%2C+live+with+jazz%2C+glow+like+sunsets." alt="devise" />
-
 </div>
 
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ELBOUHYAOUICHRAQ&show_icons=true&theme=dark&hide_border=true" width="32%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBOUHYAOUICHRAQ&theme=dark&hide_border=true" width="32%"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="32%"/>
-
-</div>
 ---
