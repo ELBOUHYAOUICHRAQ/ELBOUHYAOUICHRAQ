@@ -70,7 +70,7 @@
 
 ✨ 🎷 🌅 🎸 ✨
 
-"She speaks in syntax by day and saxophone by dusk — her code hums like jazz, her calm glows like a sunset, both born of the same quiet discipline."
+### *"She speaks in syntax by day and saxophone by dusk — her code hums like jazz, her calm glows like a sunset, both born of the same quiet discipline."*
 
 ✨ 🎷 🌅 🎸 ✨
 
@@ -85,15 +85,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ELBOUHYAOUICHRAQ&show_icons=true&theme=dark&hide_border=true" width="55%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBOUHYAOUICHRAQ&theme=dark&hide_border=true" width="55%"/>
-
-<br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=ELBOUHYAOUICHRAQ&show_icons=true&theme=dark&hide_border=true" width="32%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ELBOUHYAOUICHRAQ&theme=dark&hide_border=true" width="32%"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ELBOUHYAOUICHRAQ&layout=compact&theme=dark&hide_border=true" width="32%"/>
 
 </div>
 ---
