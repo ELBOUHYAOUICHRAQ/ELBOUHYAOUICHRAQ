@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ELBOUHYAOUICHRAQ&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ELBOUHYAOUICHRAQ&show_icons=true&theme=dark&hide_border=true" width="55%"/>
 
 <br/>
 
