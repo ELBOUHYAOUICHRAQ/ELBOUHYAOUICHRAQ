@@ -64,11 +64,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/>
 
----
 
-
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
