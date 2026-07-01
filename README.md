@@ -94,32 +94,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=E91E8C&center=true&vCenter=true&width=400&lines=Code+with+%F0%9F%8E%B8" alt="Code with" />
+✨ 🎷 🌅 🎸 ✨
 
-</div>
+### *"Somewhere between a jazz chord and a rock riff, under a sky turning gold, I write code that feels like music — soft where it needs to breathe, loud where it needs to live."*
 
-## 🎸 My Electric Guitar :
+✨ 🎷 🌅 🎸 ✨
 
-Music is my other passion besides tech — jazz and rock are where I go to unwind and reconnect. There's something about the raw tone of an electric guitar that pulls me out of the logic of code and into pure feeling. Whether I'm chasing a jazz chord progression or losing myself in a rock riff, playing gives me the same kind of flow state as solving a hard engineering problem — just with more distortion.
-
-<div align="center">
-<img src="./assets/guitar.jpg" width="500" alt="My electric guitar"/>
-<br/>
-<sub><i>Remplace par ta propre photo — enregistre-la sous <code>assets/guitar.jpg</code> dans ton repo</i></sub>
-</div>
-
-<br/>
-
-## 🌅 Sunsets :
-
-There's a quiet kind of clarity that comes at golden hour. I chase sunsets the way I chase clean architecture — for that same feeling of everything finally falling into place.
-
-> *"Some of the best debugging happens with a view."*
-
-<div align="center">
-<img src="./assets/sunset.jpg" width="500" alt="Sunset"/>
-<br/>
-<sub><i>Remplace par ta propre photo — enregistre-la sous <code>assets/sunset.jpg</code> dans ton repo</i></sub>
 </div>
 
 ---
